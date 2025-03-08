@@ -1,0 +1,3 @@
+[submodule "SearchFilters"]
+	path = SearchFilters
+	url = git@github.com:Pitxi/SearchFilters.git
